@@ -13,7 +13,7 @@
 -  Bat
 #### 5. Added new Mobs: 
 -  Mage
--  Famifaze
+-  Kamikaze
 -  Granadier
 #### 6. Added AttackSignal Sprite that appears before Mob's attack and disappears after.
 #### 7. Added Text notify about taken damage and healing values
